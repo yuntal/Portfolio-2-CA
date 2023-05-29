@@ -1,0 +1,249 @@
+html, body{
+    height: 100%;
+    width: 100%;
+}
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: $bg;
+    font-family: sans-serif;
+    display:flex;
+    flex-direction: column;
+    background-color: $secondary;
+}
+
+.fa-github-square{
+    margin-right:5%;
+   }
+
+    #social{
+        font-size:25px;
+    }
+
+
+.responsive {
+    width:11%;
+    padding:2rem;
+}
+
+#hbtn {
+    position: relative;
+    box-sizing: border-box;
+    display: inline-block;
+    overflow: hidden;
+    padding: 8px 20px;
+    margin: 40px 3px 6px;
+    text-align: center;
+    border: 2px solid $secondary;
+    text-decoration: none;
+    color: $secondary;
+    white-space: nowrap;
+    z-index: 0;
+} 
+
+.hbtn, #hbtn {
+      position: relative;
+      box-sizing: border-box;
+      display: inline-block;
+      overflow: hidden;
+      padding: 8px 20px;
+      margin: 0px 3px 6px;
+      text-align: center;
+      border: 2px solid $secondary;
+      text-decoration: none;
+      color: $secondary;
+      white-space: nowrap;
+      z-index: 0;
+} 
+ 
+
+.hbtn i {
+      padding-right: 8px;
+} 
+ 
+
+.hb-fill-right::before {
+      position: absolute;
+      content: "";
+      background: $secondary;
+      transition-duration: 0.3s;
+      z-index: -1;
+      inset: 0px auto auto 0px;
+      width: 0px;
+      height: 100%;
+      opacity: 1;
+} 
+ 
+
+.hb-fill-right:hover::before {
+      width: 100%;
+      height: 100%;
+      opacity: 1;
+} 
+ 
+
+.hb-fill-right:hover {
+      color: $tertiary;
+      background: $primary;
+      transition: color 0.3s ease 0s;
+      background: 0s ease 0.3s;
+      text-decoration: none;
+} 
+
+
+@media (min-width:280px) and (max-width:375px){
+    .responsive{
+        width:45%;
+        margin-left:-9.5%;
+    }
+   .fa-github-square{
+    margin-right:5%;
+   }
+
+    #social{
+        margin-left:10%;
+        font-size:25px;
+    }
+}
+
+@media (min-width:376px) and (max-width:401px){
+    .responsive{
+        width:41% !important;
+        margin-left:-9.5%;
+    }
+    .fa-github-square{
+        margin-right:5%;
+       }
+    
+        #social{
+            margin-left:10%;
+            font-size:25px;
+        }
+}
+
+@media (min-width:402px) and (max-width:414px){
+    .responsive{
+        width:42% !important;
+        margin-left:-9.5%;
+    }
+    .fa-github-square{
+        margin-right:5%;
+       }
+    
+        #social{
+            margin-left:10%;
+            font-size:25px;
+        }
+}
+
+
+
+
+@media(min-width:500px) and (max-width:568px){
+    .responsive{
+        width:32% !important;
+        margin-left:-7% !important;
+    }
+    .fa-github-square{
+        margin-right:5%;
+       }
+    
+        #social{
+            margin-left:17%;
+            font-size:25px;
+        }
+    
+}
+
+@media(min-width:640px) and (max-width:667px){
+
+    
+    .responsive{
+        width:28% !important;
+        margin-left:-1% !important;
+    }
+    .fa-github-square{
+        margin-right:5%;
+       }
+    
+        #social{
+            font-size:25px;
+        }
+    
+}
+
+
+@media(min-width:719px) and (max-width:767px){
+    img.responsive{
+        width:25% !important;
+        margin-left:-1%;
+    }
+    .fa-github-square{
+        margin-right:5%;
+       }
+    
+        #social{
+            font-size:25px;
+        }
+}
+
+@media(min-width:767px) and (max-width:768px){
+    img.responsive{
+        width:23% !important;
+        margin-left:-1%;
+    }
+    .fa-github-square{
+        margin-right:5%;
+       }
+    
+        #social{
+            font-size:25px;
+        }
+}
+
+@media(min-width:769px) and (max-width:823px){
+    img.responsive{
+        width:23% !important;
+        margin-left:-1%;
+    }
+    .fa-github-square{
+        margin-right:5%;
+       }
+    
+        #social{
+            font-size:25px;
+        }
+}
+
+
+@media(min-width:824px) and (max-width:1024px){
+
+    img.responsive{
+        width:17% !important;
+        margin-left:-1%;
+    }
+    .fa-github-square{
+        margin-right:5%;
+       }
+    
+        #social{
+            font-size:25px;
+        }
+}
+
+@media(min-width:1025px) and (max-width:1366px){
+
+.responsive{
+    width:10%;
+    margin-left:-1%;
+}
+.fa-github-square{
+    margin-right:5%;
+   }
+
+    #social{
+        font-size:25px;
+    }
+}

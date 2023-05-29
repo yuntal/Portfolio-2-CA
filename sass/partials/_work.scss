@@ -1,0 +1,284 @@
+
+
+
+.container-fluid1{
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:0%;
+    max-width:100%;
+}
+
+
+#row-2{
+    padding-left:5rem;
+    padding-top:15rem !important;
+    background-color: $secondary !important;
+}
+
+
+#work {
+    margin: 1rem;
+    padding: 1rem;
+    margin-left:6.5%;
+    width: 250px;
+    margin-bottom:5%;
+    margin-top:5%;
+    height:450px !important;
+}   
+
+#work{
+    height:300px;
+    width:300px;
+    background:$primary;
+    margin-top:2.5rem;
+    margin-bottom:5rem;
+    
+} 
+
+.card-img-top{
+    width:300px;
+    margin-left:-6.5%;
+    margin-top:-7%;
+}
+
+video{
+    width:300.5px;
+    margin-left:-6.5%;
+    margin-top:-7%;
+    margin-bottom:0;
+    height:173px;
+}
+.card-title{
+    font-family:'Bebas Neue';
+    text-align:center;
+}
+#X{
+    width:300.5px;
+    height:170px;
+}
+
+
+
+@media (min-width: 280px) and (max-width:375px) {
+
+
+    #work{
+        width:250px !important;
+        margin-left:-30px !important;
+        height:420px !important;
+    }
+    .card-img-top {
+        width: 250px !important;
+        margin-top:-30%;
+        margin-bottom:15%;
+        margin-left:-17px;
+    }
+    video{
+        width:250px !important;
+        margin-left:-17px;
+        margin-top:-20%;
+    }
+    }
+    
+@media (min-width: 401px) and (max-width:414px) {
+
+
+#work{
+    width:250px !important;
+    margin-left:-5% !important;
+    height:420px !important;
+}
+.card-img-top {
+    width: 250px !important;
+    margin-top:-30%;
+    margin-bottom:15%;
+    margin-left:-17px;
+}
+video{
+    width:250px !important;
+    margin-left:-7.8%;
+    margin-top:-20%;
+}
+}
+
+
+
+@media (min-width: 500px) and (max-width:568px) {
+
+  
+       #row-2{
+        margin-left:-15% !important;
+    }
+    .card-img-top {
+        width: 337px !important;
+        margin-top:-30%;
+        margin-bottom:15%;
+        margin-left:-17px;
+    }
+    video{
+        margin-left:-5.5%;
+        margin-top:-45.4%;
+        width:337px;
+        height:320px;
+    }
+    #work {
+        height:420px !important;
+        width:337px !important;
+        margin-left:70px !important;
+    }   
+    }
+       
+    
+
+
+@media (min-width: 640px) and (max-width:667px) {
+
+
+#work{
+    width:337px !important;
+    margin-left:65px !important;
+}
+.card-img-top {
+    width:337px !important;
+    margin-left:-17px;
+}
+
+video{
+    margin-left:-6%;
+    margin-top:-45.4%;
+    width:338px;
+    height:320px;
+}
+}
+
+
+@media (min-width: 719px) and (max-width:767px) {
+
+
+#work{
+    width:250px !important;
+    margin-left:18px;
+    height:480px !important;
+}
+
+#row-2{
+    margin-left:-4%;
+}
+
+.card-img-top {
+    width:250px !important;
+    margin-left:-17px;
+    margin-top:-9%;
+}
+video{
+    width:251px;
+    margin-left:-8%;
+    margin-top:-15%;
+}
+}
+
+
+
+
+@media (min-width: 767px) and (max-width:768px) {
+
+
+
+#work{
+    width:250px !important;
+    margin-left:28px;
+    height:480px !important;
+}
+
+#row-2{
+    margin-left:-4%;
+}
+
+.card-img-top {
+    width:250px !important;
+    margin-left:-17px;
+    margin-top:-9%;
+}
+video{
+    width:251px;
+    margin-left:-8%;
+    margin-top:-16.5%;
+}
+}
+    
+
+@media (min-width: 769px) and (max-width:823px) {
+
+
+
+
+#work{
+    width:250px !important;
+    margin-left:45px;
+    height:470px !important;
+}
+
+#row-2{
+    margin-left:-2%;
+}
+.card-img-top {
+    width:250px !important;
+    margin-left:-17px;
+    margin-top:-9%;
+}
+
+video{
+    width:251px;
+    margin-left:-8%;
+    margin-top:-16%;
+}
+}
+    
+@media (min-width: 824px) and (max-width:1024px) {
+
+    #work{
+        width:300px !important;
+        margin-left:85px;
+    }
+  
+    #row-2{
+        margin-left:-2%;
+    }
+    .card-img-top {
+        width:300px !important;
+        margin-left:-17px;
+        margin-top:-9%;
+    }
+
+    video{
+        width:301px;
+        margin-left:-6.5%;
+        margin-top:-10%;
+    }
+}
+
+
+@media (min-width: 1025px) and (max-width:1366px) {
+
+    #work{
+        width:300px !important;
+        margin-left:75px;
+    }
+    
+    #row-2{
+        margin-left:-2%;
+    }
+    .card-img-top {
+        width:300px !important;
+        margin-left:-17px;
+        margin-top:-9%;
+    }
+        
+    video{
+        width:301px;
+        margin-left:-6.5%;
+        margin-top:-12%;
+    }
+}
+
+
