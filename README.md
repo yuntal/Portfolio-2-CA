@@ -26,13 +26,10 @@ You can list a the tech stack that you've used over here
 
 ### Running
 
-Here is where you detail how to run the app. It typically involves the commands you'd need to run to start the project e.g.
+To run the app, you can simply view the website on live server. 
 
-To run the app, run the following commands:
+If not the app can be easily accessed through github pages: https://yuntal.github.io/Portfolio-23/ .
 
-```bash
-npm run start
-```
 
 ## Contributing
 
@@ -42,9 +39,7 @@ Here you can detail any information you want to provide regarding contributing t
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My Twitter page](www.twitter.com)
-
-[My LinkedIn page](www.linkedin.com)
+[My LinkedIn page](https://www.linkedin.com/in/yunus-talay-324074191/)
 
 ## License
 
