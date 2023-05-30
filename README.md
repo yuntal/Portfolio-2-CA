@@ -6,17 +6,16 @@ A simple overview of the use/purpose of the project.
 
 ## Description
 
-Add a more detailed description of what your project entails and set out to do.
+This is my official portfolio page. Here I will like to demonstrate the skills I've learned throughout my years at Noroff. I would like to do this by creating a few small projects. 
 
-You can add some bullet points if you'd like to:
 
-- List item 1
-- List item 2
-- List item 3
+This Portfolio consists of three main pages:
+
+- 0.1 Home
+- 0.2 Work
+- 0.3 About
 
 ## Built With
-
-You can list a the tech stack that you've used over here
 
 - [Bootstrap](https://getbootstrap.com)
 
@@ -26,9 +25,9 @@ You can list a the tech stack that you've used over here
 
 ### Running
 
-To run the app, you can simply view the website on live server. 
+To run the app, you can simply click on live server on which ever code editor you're using.
 
-If not the app can be easily accessed through github pages: https://yuntal.github.io/Portfolio-23/ .
+If not, the app can be easily accessed through github pages: https://yuntal.github.io/Portfolio-23/ .
 
 
 ## Contributing
@@ -41,9 +40,6 @@ This is where you can leave your social links for people to contact you, such as
 
 [My LinkedIn page](https://www.linkedin.com/in/yunus-talay-324074191/)
 
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
 
 ## Acknowledgments
 
