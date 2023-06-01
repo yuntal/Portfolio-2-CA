@@ -35,6 +35,3 @@ Let's keep in touch. You can find me on LinkedIn.
 [My LinkedIn page](https://www.linkedin.com/in/yunus-talay-324074191/)
 
 
-## Acknowledgments
-
-This is where you can add any acknowledgements if you'd like, such as to people who have helped you or any code snippets you'd like to mention. You can delete this section if you don't have any acknowledgements to make.
