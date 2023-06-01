@@ -23,11 +23,6 @@ To run the app, you can simply click on live server on which ever code editor yo
 
 If not, the app can be easily accessed through github pages: https://yuntal.github.io/Portfolio-23/ .
 
-
-## Contributing
-
-Here you can detail any information you want to provide regarding contributing to the project. For big projects you will usually have a separate `CONTRIBUTING.md` and link to it, but for smaller projects you can simply include instructions here. These instructions can simply detail the process you want a person to take, such as to make sure to open a pull request so code can be reviewed.
-
 ## Contact
 
 Let's keep in touch. You can find me on LinkedIn.
