@@ -3,7 +3,7 @@
 
 ## Description
 
-This is my official portfolio page. Here I will like to demonstrate the skills I've learned throughout my years at Noroff. I would like to do this by creating a few small projects. 
+This is my official portfolio page. Here I will like to tell you a few words about my self, and show you some of the projects that i've made. 
 
 
 This Portfolio consists of three main pages:
