@@ -21,7 +21,7 @@ This Portfolio consists of three main pages:
 
 To run the app, you can simply click on live server on which ever code editor you're using.
 
-If not, the app can be easily accessed through github pages: https://yuntal.github.io/Portfolio-23/ .
+If not, the app can be easily accessed through github pages: https://yuntal.github.io/Portfolio-2-CA/ .
 
 ## Contact
 
